@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "units": "mm",
+    "scale_factor": 1.0,
+    "origin": [0, 0],
+    "source_file": "plat_001.png",
+    "created_by": "ML-OCR Pipeline v2.1",
+    "drawing_date": "2026-01-01",
+    "drawing_version": "1.0"
+
+
+  },
+  "entities": [
+    {
+      "type": "line",
+      "start": [10.5, 20.0],
+      "end": [30.5, 20.0],
+      "layer": "walls"
+    },
+    {
+      "type": "arc",
+      "center": [25.0, 25.0],
+      "radius": 5.0,
+      "start_angle": 0,
+      "end_angle": 90,
+      "layer": "curves"
+    },
+    {
+      "type": "text",
+      "position": [12.0, 22.5],
+      "content": "Main Entrance",
+      "height": 0.8,
+      "rotation": 0,
+      "layer": "annotations"
+    },
+    {
+      "type": "dimension_linear",
+      "start": [10.5, 20.0],
+      "end": [30.5, 20.0],
+      "dim_line_position": [20.5, 18.0],
+      "text": "20.00'",
+      "text_height": 0.25,
+      "layer": "dimensions"
+    },
+    {
+      "type": "bullet_point",
+      "position": [15.0, 25.0],
+      "label": "A",
+      "height": 0.5,
+      "layer": "bullets"
+    }
+  ]
+}

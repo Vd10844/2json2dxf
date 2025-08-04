@@ -1,0 +1,20 @@
+{
+  "drawing_metadata": {
+    "units": "feet"
+  },
+  "layers": {
+    "LOT": {
+      "color": 1,
+      "linetype": "Continuous"
+    },
+    "HOUSE": {
+      "color": 2,
+      "linetype": "Continuous"
+    },
+    "ANNOTATION": {
+      "color": 6,
+      "linetype": "Continuous"
+    }
+  },
+  "default_text_style": "STANDARD"
+}

@@ -1,0 +1,28 @@
+{
+  "drawing_metadata": {
+    "drawing_name": "site_plan_A1",
+    "units": "feet",
+    "scale": 1.0,
+    "origin": [0, 0],
+    "drawing_standard": "ANSI_Y14.5"
+  },
+  "layers": {
+    "walls": {
+      "color": 7,
+      "linetype": "continuous"
+    },
+    "annotations": {
+      "color": 2
+    },
+    "dimensions": {
+      "color": 3
+    },
+    "curves": {
+      "color": 4
+    },
+    "bullets": {
+      "color": 5
+    }
+  },
+  "default_text_style": "ROMANS"
+}

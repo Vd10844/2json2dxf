@@ -1,0 +1,118 @@
+{
+  "entities": [
+    {
+      "type": "polyline",
+      "points": [[0, 0], [100, 0], [100, 70], [0, 70], [0, 0]],
+      "layer": "LOT"
+    },
+  {
+    "type": "text",
+    "content": "S 90.00° E 100.0'",
+    "position": [50.0, 0.0],
+    "height": 1.5,
+    "layer": "ANNOTATION"
+  },
+  {
+    "type": "text",
+    "content": "N 0.00° E 70.0'",
+    "position": [100.0, 35.0],
+    "height": 1.5,
+    "layer": "ANNOTATION"
+  },
+  {
+    "type": "text",
+    "content": "N 90.00° W 100.0'",
+    "position": [50.0, 70.0],
+    "height": 1.5,
+    "layer": "ANNOTATION"
+  },
+  {
+    "type": "text",
+    "content": "S 0.00° W 70.0'",
+    "position": [0.0, 35.0],
+    "height": 1.5,
+    "layer": "ANNOTATION"
+  },
+    {
+      "type": "text",
+      "content": "Lot Boundary",
+      "position": [40, 72],
+      "height": 2,
+      "layer": "ANNOTATION"
+    },
+
+    {
+      "type": "text",
+      "content": "N 90°00'00\" E 100.00'",
+      "position": [50, -2],
+      "height": 1.5,
+      "layer": "ANNOTATION"
+    },
+    {
+      "type": "text",
+      "content": "S 90°00'00\" W 100.00'",
+      "position": [50, 72],
+      "height": 1.5,
+      "layer": "ANNOTATION"
+    },
+    {
+      "type": "text",
+      "content": "N 00°00'00\" W 70.00'",
+      "position": [-5, 35],
+      "height": 1.5,
+      "layer": "ANNOTATION"
+    },
+    {
+      "type": "text",
+      "content": "S 00°00'00\" E 70.00'",
+      "position": [102, 35],
+      "height": 1.5,
+      "layer": "ANNOTATION"
+    },
+
+
+    {
+      "type": "polyline",
+      "points": [[30, 20], [70, 20], [70, 50], [30, 50], [30, 20]],
+      "layer": "HOUSE"
+    },
+    {
+      "type": "text",
+      "content": "Main House",
+      "position": [45, 35],
+      "height": 2,
+      "layer": "ANNOTATION"
+    },
+
+  
+    {
+      "type": "text",
+      "content": "Front Setback: 25'",
+      "position": [35, -6],
+      "height": 1.5,
+      "layer": "ANNOTATION"
+    },
+    {
+      "type": "text",
+      "content": "Side Setback: 10'",
+      "position": [-15, 20],
+      "height": 1.5,
+      "layer": "ANNOTATION"
+    },
+
+  
+    {
+      "type": "line",
+      "start": [105, 30],
+      "end": [105, 45],
+      "layer": "ANNOTATION"
+    },
+    {
+      "type": "text",
+      "content": "N",
+      "position": [106, 46],
+      "height": 2,
+      "layer": "ANNOTATION"
+    }
+  ]
+}
